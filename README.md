@@ -1,0 +1,1 @@
+# segnext-detector-card
